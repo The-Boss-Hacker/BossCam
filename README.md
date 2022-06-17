@@ -30,4 +30,9 @@
 
 <img src="https://i.ibb.co/2YYWnB2/IMG-20220617-182827.jpg" alt="IMG-20220617-182827" border="0">
 
+> Tool Preview 👇
+
+<img src="https://i.ibb.co/t4qzKSL/IMG-20220617-182848.jpg" alt="IMG-20220617-182848" border="0">
+
+
 ## Installation
