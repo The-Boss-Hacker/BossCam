@@ -42,5 +42,12 @@
 apt update && apt upgrade
 ```
 ```
+apt install git -y
+```
+```
 git clone https://github.com/The-Boss-Hacker/BossCam.git
 ```
+```
+cd BossCam
+```
+
