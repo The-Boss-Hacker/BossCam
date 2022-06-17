@@ -53,6 +53,10 @@ git clone https://github.com/The-Boss-Hacker/BossCam.git
 ```
 cd BossCam
 ```
+> Permission 👇✅
+```
+chmod +x boss-cam.sh
+```
 > Only Run ./ This Execute Note This👇✅
 ```
 ./boss-cam.sh
