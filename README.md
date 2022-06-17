@@ -38,3 +38,5 @@
 ## Installation
 
 > Tool Installing 👇🔥✅👽
+
+[git clone ]
