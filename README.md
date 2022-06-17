@@ -38,5 +38,9 @@
 ## Installation
 
 > Tool Installing 👇🔥✅👽
-
-[git clone ]
+```
+apt update && apt upgrade
+```
+```
+git clone https://github.com/The-Boss-Hacker/BossCam.git
+```
