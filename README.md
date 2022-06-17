@@ -2,6 +2,15 @@
 
 > The Boss Hacker Tool 🔥 Boss Hack
 
+> Correctly Support:👉 Kali Linux ✅🔥🌀👽
+
+> Correctly Unsupported : 👉 Termux ❎🌀👽
+
+> Termux Coming Soon : yes 👉✅🔥💥☢️
+
+> Wait For Termux Users✅💥🔥🌀👽
+
+
 > Tool Preview 👇
 
 <img src="https://i.ibb.co/qmsvJ0W/Screenshot-20220617-181648.jpg" alt="Screenshot-20220617-181648" border="0">
@@ -59,7 +68,7 @@ chmod +x boss-cam.sh
 ```
 > Execute 👇✅
 ```
-bash boss-cam.sh
+./boss-cam.sh
 ```
 > Tool Installed ✅👽🔥🌀
 
