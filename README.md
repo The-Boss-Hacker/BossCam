@@ -57,9 +57,9 @@ cd BossCam
 ```
 chmod +x boss-cam.sh
 ```
-> Only Run ./ This Execute Note This👇✅
+> Execute 👇✅
 ```
-./boss-cam.sh
+bash boss-cam.sh
 ```
 > Tool Installed ✅👽🔥🌀
 
