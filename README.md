@@ -41,15 +41,21 @@
 ```
 apt update && apt upgrade
 ```
+> git clone command work Install this package 👇✅
 ```
 apt install git -y
 ```
+> Git Cloning Link And Code 👇✅
 ```
 git clone https://github.com/The-Boss-Hacker/BossCam.git
 ```
+> Go To Directory ✅👇
 ```
 cd BossCam
 ```
+> Only Run ./ This Execute Note This👇✅
 ```
-./boss-cam sh
+./boss-cam.sh
 ```
+> Tool Installed ✅👽🔥🌀
+
