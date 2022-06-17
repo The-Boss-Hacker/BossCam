@@ -66,7 +66,7 @@ cd BossCam
 ```
 chmod +x boss-cam.sh
 ```
-> Execute 👇✅
+> only ./ Note This 👈 Execute 👇✅
 ```
 ./boss-cam.sh
 ```
