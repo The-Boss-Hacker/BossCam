@@ -50,4 +50,6 @@ git clone https://github.com/The-Boss-Hacker/BossCam.git
 ```
 cd BossCam
 ```
-
+```
+./boss-cam sh
+```
