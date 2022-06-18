@@ -98,6 +98,7 @@ https://youtube.com/shorts/👉 Jg8sKfdOwiQ 👈?feature=share
 ```
 Jg8sKfdOwiQ
 ```
+> Same Process In YouTube Video I'd copy ✅🔥👽👆
 
 > This I'd Paste In Tool ✅🔥👽💯
 
