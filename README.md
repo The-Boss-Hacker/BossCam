@@ -48,11 +48,11 @@
 
 > Tool Installing 👇🔥✅👽
 ```
-apt update && apt upgrade
+sudo apt update && apt upgrade -y
 ```
 > git clone command work Install this package 👇✅
 ```
-apt install git -y
+sudo apt install git -y
 ```
 > Git Cloning Link And Code 👇✅
 ```
@@ -98,4 +98,17 @@ https://youtube.com/shorts/👉 Jg8sKfdOwiQ 👈?feature=share
 ```
 Jg8sKfdOwiQ
 ```
+
+> This I'd Paste In Tool ✅🔥👽💯
+
+```
+Enter YouTube video watch ID: Paste Here🔥✅
+```
+
+> Tool In 👇🔥✅
+
+```
+Enter YouTube video watch ID:Jg8sKfdOwiQ
+```
+
 
