@@ -87,3 +87,5 @@ chmod +x boss-cam.sh
 https://youtube.com/shorts/Jg8sKfdOwiQ?feature=share
 ```
 
+> YouTube Id After /shorts/ Copy This I'd ✅👇👽🔥
+
