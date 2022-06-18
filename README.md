@@ -72,7 +72,18 @@ chmod +x boss-cam.sh
 ```
 > Tool Installed ✅👽🔥🌀
 
-## How To Use Tool 👈✅❓
+## How To Use Tool 
+
 
 > How To Copy YouTube Id ❓✅
+
+>First Copy Any YouTube Video Link✅👽🌀
+
+> Example ✅👇🌀👽🔥
+
+> How To Copy YouTube Shorts Video I'd ✅👇🔥👽❓
+
+```
+https://youtube.com/shorts/Jg8sKfdOwiQ?feature=share
+```
 
