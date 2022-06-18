@@ -90,5 +90,12 @@ https://youtube.com/shorts/Jg8sKfdOwiQ?feature=share
 > YouTube Id After /shorts/ Copy This I'd ✅👇👽🔥
 
 ```
-___https://youtube.com/shorts/___ Jg8sKfdOwiQ ___?feature=share___
+https://youtube.com/shorts/👉 Jg8sKfdOwiQ 👈?feature=share
 ```
+
+> Example ✅👇🔥
+
+```
+Jg8sKfdOwiQ
+```
+
