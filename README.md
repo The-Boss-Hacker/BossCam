@@ -46,6 +46,37 @@
 
 ## Installation
 
+# Termux For Android Installing 👇✅🔥
+
+> Tool Installing 👇🔥✅👽
+```
+apt update && apt upgrade -y
+```
+> git clone command work Install this package 👇✅
+```
+apt install git -y
+```
+> Git Cloning Link And Code 👇✅
+```
+git clone https://github.com/The-Boss-Hacker/BossCam.git
+```
+> Go To Directory ✅👇
+```
+cd BossCam
+```
+> Permission 👇✅
+```
+chmod +x bosscam.sh
+```
+> Execute 👇✅
+```
+bash bosscam.sh
+```
+> Tool Installed ✅👽🔥🌀
+
+
+# Kali Linux Installing 👇✅🔥
+
 > Tool Installing 👇🔥✅👽
 ```
 sudo apt update && apt upgrade -y
@@ -64,11 +95,11 @@ cd BossCam
 ```
 > Permission 👇✅
 ```
-chmod +x boss-cam.sh
+chmod +x bosscam.sh
 ```
-> only ./ Note This 👈 Execute 👇✅
+> Execute 👇✅
 ```
-./boss-cam.sh
+bash bosscam.sh
 ```
 > Tool Installed ✅👽🔥🌀
 
