@@ -2,6 +2,8 @@
 
 > 𝚃𝚑𝚎 𝙱𝚘𝚜𝚜 𝙷𝚊𝚌𝚔𝚎𝚛 Tool 🔥 Boss Cam Hack
 
+<img src="https://i.ibb.co/f2JjmWS/Boss-Cam-6-19-2022.png" alt="Boss-Cam-6-19-2022" border="0">
+
 > Correctly Support:👉 Kali Linux ✅🔥🌀👽
 
 > Correctly Support: 👉 Termux ✅🌀👽
@@ -145,6 +147,8 @@ Enter YouTube video watch ID:Jg8sKfdOwiQ
 ```
 
 > Enjoy🔥 My 💥Hacker 👽Friends✅
+
+<img src="https://i.ibb.co/f2JjmWS/Boss-Cam-6-19-2022.png" alt="Boss-Cam-6-19-2022" border="0">
 
 ```
 𝚃𝚑𝚎 𝙱𝚘𝚜𝚜 𝙷𝚊𝚌𝚔𝚎𝚛
