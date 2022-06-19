@@ -4,12 +4,13 @@
 
 > Correctly Support:👉 Kali Linux ✅🔥🌀👽
 
-> Correctly Unsupported : 👉 Termux ❎🌀👽
-
-> Termux Coming Soon : yes 👉✅🔥💥☢️
+> Correctly Support: 👉 Termux ✅🌀👽
 
 > Wait For Termux Users✅💥🔥🌀👽
 
+> Termux User Updated Tool Working In Termux Check Now ✅🔥💥👽
+
+## Tool Preview 👇💥👽🔥
 
 > Tool Preview 👇
 
@@ -44,9 +45,9 @@
 <img src="https://i.ibb.co/t4qzKSL/IMG-20220617-182848.jpg" alt="IMG-20220617-182848" border="0">
 
 
-## Installation
+# Installation
 
-# Termux For Android Installing 👇✅🔥
+## Termux For Android Installing 👇✅🔥
 
 > Tool Installing 👇🔥✅👽
 ```
@@ -75,7 +76,7 @@ bash bosscam.sh
 > Tool Installed ✅👽🔥🌀
 
 
-# Kali Linux Installing 👇✅🔥
+## Kali Linux Installing 👇✅🔥
 
 > Tool Installing 👇🔥✅👽
 ```
