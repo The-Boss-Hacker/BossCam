@@ -75,11 +75,11 @@ cd BossCam
 ```
 > Permission 👇✅
 ```
-chmod +x bosscam.sh
+chmod +x bosscam
 ```
 > Execute 👇✅
 ```
-bash bosscam.sh
+bash bosscam
 ```
 > Tool Installed ✅👽🔥🌀
 
@@ -110,11 +110,11 @@ cd BossCam
 ```
 > Permission 👇✅
 ```
-chmod +x bosscam.sh
+chmod +x bosscam
 ```
 > Execute 👇✅
 ```
-bash bosscam.sh
+bash bosscam
 ```
 > Tool Installed ✅👽🔥🌀
 
