@@ -52,6 +52,12 @@
 ## Termux For Android Installing 👇✅🔥
 
 > Tool Installing 👇🔥✅👽
+
+> Go To Your Home Directory ✅
+```
+cd $HOME
+```
+> Updating Your Packages 
 ```
 apt update && apt upgrade -y
 ```
@@ -81,6 +87,12 @@ bash bosscam.sh
 ## Kali Linux Installing 👇✅🔥
 
 > Tool Installing 👇🔥✅👽
+
+> Go To Your Home Directory ✅
+```
+cd $HOME
+```
+> Updating Your Packages 
 ```
 sudo apt update && apt upgrade -y
 ```
