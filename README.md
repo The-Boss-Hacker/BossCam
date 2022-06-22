@@ -130,19 +130,19 @@ bash bosscam
 > How To Copy YouTube Shorts Video I'd ✅👇🔥👽❓
 
 ```
-https://youtube.com/shorts/Jg8sKfdOwiQ?feature=share
+https://youtube.com/shorts/YJDyNV59Ksw?feature=share
 ```
 
 > YouTube Id After /shorts/ Copy This I'd ✅👇👽🔥
 
 ```
-https://youtube.com/shorts/👉 Jg8sKfdOwiQ 👈?feature=share
+https://youtube.com/shorts/👉 YJDyNV59Ksw 👈?feature=share
 ```
 
 > Example ✅👇🔥
 
 ```
-Jg8sKfdOwiQ
+YJDyNV59Ksw
 ```
 > Same Process In YouTube Video I'd copy ✅🔥👽👆
 
@@ -155,7 +155,7 @@ Enter YouTube video watch ID: Paste Here🔥✅
 > Tool In 👇🔥✅
 
 ```
-Enter YouTube video watch ID:Jg8sKfdOwiQ
+Enter YouTube video watch ID:YJDyNV59Ksw
 ```
 
 > Enjoy🔥 My 💥Hacker 👽Friends✅
