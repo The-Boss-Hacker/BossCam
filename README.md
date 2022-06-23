@@ -53,6 +53,18 @@
 
 > Tool Installing 👇🔥✅👽
 
+> Easy Installation 👇✅🔥
+
+```
+cd $HOME && apt update && apt upgrade -y && apt install git -y && git clone https://github.com/The-Boss-Hacker/BossCam.git && cd BossCam && chmod +x BossCam 
+```
+
+> Then Run Tool 🔥👇✅
+```
+bash bosscam
+```
+> Manual Installation 👇✅🔥
+
 > Go To Your Home Directory ✅
 ```
 cd $HOME
@@ -87,6 +99,18 @@ bash bosscam
 ## Kali Linux Installing 👇✅🔥
 
 > Tool Installing 👇🔥✅👽
+
+> Easy Installation 👇✅🔥
+
+```
+cd $HOME && sudo apt update && sudo apt upgrade -y && sudo apt install git -y && git clone https://github.com/The-Boss-Hacker/BossCam.git && cd BossCam && chmod +x BossCam 
+```
+
+> Then Run Tool 🔥👇✅
+```
+bash bosscam
+```
+> Manual Installation 👇✅🔥
 
 > Go To Your Home Directory ✅
 ```
