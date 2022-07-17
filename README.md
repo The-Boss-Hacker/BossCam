@@ -4,9 +4,9 @@
 
 <img src="https://i.ibb.co/f2JjmWS/Boss-Cam-6-19-2022.png" alt="Boss-Cam-6-19-2022" border="0">
 
-> Correctly Support:👉 Kali Linux ✅🔥🌀👽
+> Correctly Tested:👉 Kali Linux ✅🔥🌀👽
 
-> Correctly Support: 👉 Termux ✅🌀👽
+> Correctly Tested: 👉 Termux ✅🌀👽
 
 > Wait For Termux Users✅💥🔥🌀👽
 
