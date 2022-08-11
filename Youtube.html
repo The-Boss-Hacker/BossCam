@@ -6,10 +6,97 @@
 <link rel="stylesheet" type="text/css" href="https://wybiral.github.io/code-art/projects/tiny-mirror/index.css">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
 <style>
-html {
-  overflow: hidden;
-  height: 100%;
-  background: radial-gradient(ellipse at bottom, #192e47 0%, #030617 100%);
+.one h1 {
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 5px;
+}
+.one h1:before {
+  width: 28px;
+  height: 5px;
+  display: block;
+  content: "";
+  position: absolute;
+  bottom: 3px;
+  left: 50%;
+  margin-left: -14px;
+  background-color: #b80000;
+}
+.one h1:after {
+  width: 100px;
+  height: 1px;
+  display: block;
+  content: "";
+  position: relative;
+  margin-top: 25px;
+  left: 50%;
+  margin-left: -50px;
+  background-color: #b80000;
+}
+h1 {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  color: #080808;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+
+h1 span {
+  display: block;
+  font-size: 0.5em;
+  line-height: 1.3;
+}
+h1 em {
+  font-style: normal;
+  font-weight: 600;
+}
+    .thirteen h1 {
+  position:relative; font-size:20px; font-weight:700;  letter-spacing:0px; text-transform:uppercase; width:150px; text-align:center; margin:auto; white-space:nowrap; border:2px solid #222;padding:5px 11px 3px 11px;
+}
+.thirteen h1:before, .thirteen h1:after {
+    background-color: #c50000;
+    position:absolute; 
+    content: '';
+    height: 7px;
+
+    width: 7px; border-radius:50%;
+    bottom: 12px;
+}
+.thirteen h1:before {
+   left:-20px;
+}
+.thirteen h1:after {
+   right:-20px;
+}
+      
+     
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  background: #eee;
+}
+div {
+  position: relative;
+  background: #f8f8f8;
+  width: 90%;
+  max-width: 500px;
+  padding: 2em;
+  margin: 1.5em auto;
+  border: 3px solid rgba(0, 0, 0, 0.08);
+}
+
+h1:before,
+h1:after {
+  background-color: #c50000;
 }
 </style>
 </head>
@@ -82,6 +169,12 @@ init();
 </script>
 
     <body>
+    <div class="one">
+      <h1>TBH</h1>
+      </div>
+    <div class="thirteen">
+    <h1>Youtube Video</h1>
+    </div>
         <iframe id="Live_YT_TV" src="https://www.youtube.com/embed/live_yt_tv?vq=hd1080&modestbranding=1&rel=0&cc_load_policy=1&iv_load_policy=3&fs=0&color=white&controls=0&disablekb=1" width="100%" height="500"  frameborder="0"></iframe>
 
     </body>
